@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
-    <h1 align="center">Hi 👋, I'm Andres</h1>
+    <h1 align="center">Hi 👋, I'am Andres</h1>
   </div>
 ---
 
