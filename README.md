@@ -27,13 +27,9 @@ o
 ---
 <h3>🔨 Languages and Tools 2:</h3>
 
-<h3> Ruby </h3>
-*Ruby*
-*Java*
-*Flutter*
-       
-       
----
+<h3> Ruby ♦️</h3> 
+<h3> Java ☕</h3>
+<h3> Dart ⬅️</h3>
 
 
 
