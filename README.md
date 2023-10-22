@@ -25,7 +25,7 @@ o
          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python"  width="40" height="40"/>&nbsp;
 
 ---
-*otros lenguajes manejados.*
+<h3>🔨 Languages and Tools 2:</h3>
 
 *Dart*
 *Ruby*
