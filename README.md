@@ -1,4 +1,4 @@
-
+o
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
     <h1 align="center">Hi 👋, I'am Andres</h1>
@@ -25,7 +25,7 @@
          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python"  width="40" height="40"/>&nbsp;
 
 ---
-otros lenguajes manejados.
+*otros lenguajes manejados.*
 
 *Dart*
 *Ruby*
